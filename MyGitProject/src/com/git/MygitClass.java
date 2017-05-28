@@ -6,6 +6,8 @@ public class MygitClass {
 		// TODO Auto-generated method stub
 		
 		System.out.print("we are into git workshop");
+		
+		System.out.print("no corrct code");
 
 	}
 
