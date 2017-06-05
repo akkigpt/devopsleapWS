@@ -7,7 +7,7 @@ public class MygitClass {
 		
 		System.out.print("we are intoffffffffffff git workshop");
 		
-		System.out.print("no corrct code");
+		System.out.print("no corrct code hi");
 
 	}
 
